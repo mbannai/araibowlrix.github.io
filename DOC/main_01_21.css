@@ -1,0 +1,355 @@
+@charset "Shift_JIS";
+
+/* Navigation
+============================================================ */
+
+
+#hpb-nav ul li span.en{
+    display: none;
+}
+
+#hpb-nav ul li#nav-toppage a{
+	background-image : url(ico_home_00_21.png);
+}
+#hpb-nav ul li#nav-topics a{
+	background-image : url(ico_info_00_21.png);
+}
+#hpb-nav ul li#nav-concept a{
+	background-image : url(ico_attention_00_21.png);
+}
+#hpb-nav ul li#nav-service a{
+	background-image : url(ico_board_00_21.png);
+	letter-spacing: -0.1em;
+}
+#hpb-nav ul li#nav-news a{
+	background-image : url(ico_qa_00_21.png);
+}
+#hpb-nav ul li#nav-company a{
+	background-image : url(ico_building_00_21.png);
+}
+#hpb-nav ul li#nav-recruit a{
+	background-image : url(ico_person_00_21.png);
+}
+#hpb-nav ul li#nav-access a{
+	background-image : url(ico_map_00_21.png);
+}
+#hpb-nav ul li#nav-contact a{
+	background-image : url(ico_mail_00_21.png);
+}
+
+/* Footer Navigation
+============================================================ */
+
+#hpb-footerNav ul li#home a span.ja, #hpb-footerNav ul li#pagetop a span.ja{
+    display: none;
+}
+
+
+#hpb-footerNav ul li#home a{
+	background-image : url(button_home_00_21.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 53px;
+	width: 75px;
+}
+
+#hpb-footerNav ul li#pagetop a{
+	background-image : url(button_top_00_21.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 60px;
+	width: 68px;
+}
+
+/* Main Contents
+============================================================ */
+
+/* header logo */
+#hpb-headerLogo a{
+    display: block;
+    background-image : url(header_title_01_21.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+	width: 232px;
+	height: 26px;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.hpb-layoutset-01 #hpb-title{
+    background-image : url(main_title_01_21.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+	background-color: #2077ee;
+	width: 100%;
+	height: 180px;
+	text-indent: -9999px;
+    overflow: hidden;
+}
+
+.hpb-layoutset-02 #hpb-title h2{
+	background-image : url(index_bg_01_21.png);
+    background-position: right top;
+    background-repeat: no-repeat;
+	height: 52px;
+	line-height: 52px;
+	background-color: #2d60e7;
+	color: #fff;
+}
+
+/* Common ==================== */
+
+.hpb-section{
+	overflow: hidden;
+}
+
+.hpb-section p{
+	word-break: break-all;
+	font-size: 12px;
+}
+
+/* Top Page ==================== */
+
+
+.hpb-layoutset-01 #toppage .hpb-section{
+	background-image : url(bg_top_00_21.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 290px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.hpb-layoutset-01 #toppage .hpb-section h3{
+	clear: both;
+	font-size: 1em;
+	font-weight: normal;
+	margin: 0;
+	line-height: 1.5;
+}
+
+.hpb-layoutset-01 .hpb-section p{
+	margin: 0;
+	line-height: 1.5;
+}
+
+#hpb-main #toppage-news ul{
+    margin: 0 15px;
+    font-size: 12px;
+	list-style: none;
+	padding: 0;
+}
+
+#hpb-main #toppage-news ul li{
+	margin-bottom: 15px;
+}
+
+#hpb-main #toppage-news ul li h4{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+/* ========== concept ========== */
+
+.hpb-layoutset-02 #hpb-main #concept .hpb-section{
+    padding-bottom: 10px;
+}
+
+.hpb-layoutset-02 #hpb-main #concept .hpb-section:last-child p:last-child{
+    margin-bottom: 0;
+}
+
+
+/* ========== news ========== */
+
+.hpb-layoutset-02 #hpb-main #news p.indent{
+	text-indent: -1.3em;
+	margin-left: 26px;
+	margin-right: 25px;
+	margin-bottom: 20px;
+	border-bottom-style: dotted;
+	border-bottom-width: 2px;
+	border-bottom-color: #2077ee;
+	padding-bottom: 5px;
+}
+.hpb-layoutset-02 #hpb-main #news .hpb-section h4{
+	margin-left: 20px;
+}
+.hpb-layoutset-02 #hpb-main #news .hpb-section h5{
+    font-size: 12px;
+    margin: 10px 15px 10px 22px;
+}
+.hpb-layoutset-02 #hpb-main #news .hpb-section p.large{
+    margin: 0;
+    padding: 0 15px;
+
+}
+.hpb-layoutset-02 #hpb-main #news dl{
+    margin: 0 15px;
+}
+.hpb-layoutset-02 #hpb-main #news dt{
+    float: left;
+    margin-right: 15px;
+}
+.hpb-layoutset-02 #hpb-main #news dd{
+    margin: 0 0 15px;
+    overflow: hidden;
+}
+
+
+/* ========== company ========== */
+
+.hpb-layoutset-02 #hpb-main #company .hpb-section{
+    padding: 0 0 25px;
+}
+.hpb-layoutset-02 #hpb-main #company dl{
+    margin: 10px 15px;
+}
+.hpb-layoutset-02 #hpb-main #company dt{
+    float: left;
+    width: 5.5em;
+    margin-right: 10px;
+}
+.hpb-layoutset-02 #hpb-main #company dd{
+    margin: 0 0 5px;
+    overflow: hidden;
+}
+
+/* ========== recruit ========== */
+
+
+.hpb-layoutset-02 #hpb-main #recruit dt{
+    margin: 0 0 10px;
+    padding: 2px 15px 0 14px;
+    line-height: 1.0;
+	width: 5em;
+}
+.hpb-layoutset-02 #hpb-main #recruit dd{
+    margin: 15px 15px 20px;
+    padding: 0;
+}
+
+/* ========== access ========== */
+
+.hpb-layoutset-02 #hpb-main #access dt{
+
+	width: 5em;
+}
+
+.hpb-layoutset-02 #hpb-main #access .hpb-section > img{
+	margin-left: 15px;
+}
+/* ========== contact ========== */
+
+.hpb-layoutset-02 #hpb-main #contact h4{
+	margin-left: 20px;
+}
+
+.hpb-layoutset-02 #hpb-main .section input, .hpb-layoutset-02 #hpb-main .section textarea, .hpb-layoutset-02 #hpb-main .section div input, .hpb-layoutset-02 #hpb-main .section div textarea{
+    display: inline-block;
+	border: 1px solid #2077ee;
+	border-radius: 5px;
+    padding: 4px;
+}
+.hpb-layoutset-02 #hpb-main .section input{
+    height: 30px;
+}
+.hpb-layoutset-02 #hpb-main .section textarea, .hpb-layoutset-02 #hpb-main .hpb-section .section div textarea{
+    height: 160px;
+}
+.hpb-layoutset-02 #hpb-main #contact .section input:focus, .hpb-layoutset-02 #hpb-main #contact .section textarea:focus, .hpb-layoutset-02 #hpb-main .hpb-section .section div input:focus, .hpb-layoutset-02 #hpb-main .hpb-section .section div textarea:focus{
+    background: #fff;
+}
+.hpb-layoutset-02 #hpb-main form .section p a{
+    display: block;
+    margin: 0 auto;
+    padding: 20px 0;
+    text-align: center;
+}
+.hpb-layoutset-02 #hpb-main .section input.s{
+    display: inline-block;
+    width: 30px;
+    margin: 5px 5px 5px 0px;
+}
+#hpb-main .hpb-section .section{
+	margin:0 15px 0 10px;
+}
+#hpb-main .hpb-section .section textarea{
+	width:95%;
+}
+#hpb-main .hpb-section .section input.l{
+	width:95%;
+}
+#hpb-main .hpb-section .section input.m{
+	width:95%;
+}
+.hpb-layoutset-02 #hpb-main #reserve .hpb-section .submit div,
+.hpb-layoutset-02 #hpb-main #contact .hpb-section .submit div,
+.hpb-layoutset-02 #hpb-main #contactus .hpb-section .submit div,
+.hpb-layoutset-02 #hpb-main #information .hpb-section .submit div{
+    margin: 10px auto;
+    text-align: center;
+}
+
+.hpb-layoutset-02 #hpb-main #reserve .button,
+.hpb-layoutset-02 #hpb-main #contact .button,
+.hpb-layoutset-02 #hpb-main #contactus .button,
+.hpb-layoutset-02 #hpb-main #information .button{
+	color: #fff;
+	padding: 6px 6px;
+	border: 1px solid #2077ee;
+	border-radius: 4px;
+	box-shadow: 2px 2px 2px #eaeaea;
+	margin-bottom: 8px;
+	font-size: 14px;
+	background-color: #2077ee;
+}
+
+
+/* ========== Privacy Policy ========== */
+
+.hpb-layoutset-02 #hpb-main #privacy ul{
+    padding: 0 18px;
+    list-style: none;
+}
+.hpb-layoutset-02 #hpb-main #privacy li{
+    background-image : url(arrow2_00_21.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	padding-left: 16px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+/* ècå¸Ç´ï\é¶éûÇÃÇ›ìKóp */
+@media only screen and (orientation : portrait)
+{
+    .hpb-layoutset-02 #hpb-main #privacy h3{
+        letter-spacing: -1px;
+    }
+}
+
+/* ========== Law ========== */
+
+.hpb-layoutset-02 #hpb-main #law dl{
+	padding-top: 20px;
+}
+.hpb-layoutset-02 #hpb-main #law dt{
+    float: left;
+    width: 7em;
+    margin-right: 10px;
+}
+.hpb-layoutset-02 #hpb-main #law dd{
+    margin: 0 0 10px;
+    overflow: hidden;
+}
+

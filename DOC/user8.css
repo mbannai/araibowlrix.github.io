@@ -1,0 +1,316 @@
+@charset "Shift_JIS";
+
+/*--------------------------------------------------------
+  フルCSSスマートフォンテンプレート部品設定
+--------------------------------------------------------*/
+/*--------------------------------------------------------
+  ユーザー設定スタイル
+--------------------------------------------------------*/
+
+/* レイアウトコンテナ　2種類
+================================================== */
+
+.hpb-parts-smt-cnt-style {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 1em;
+	border-color: #2077ee;
+}
+
+.hpb-parts-smt-cnt-02 {
+	padding: 4px;
+}
+
+/* 見出し　7種類
+================================================== */
+
+.hpb-parts-smt-hl-style {
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+	border-color: #2077ee !important;
+	border-radius: 0px !important;
+	margin-bottom: 1em;
+	font-weight: normal;
+	padding: 6px 4px !important;
+	font-size: 12px !important;
+	text-shadow: none !important;
+	background-color: transparent !important;
+	background-image: none !important;
+	color: #000 !important;
+	width: auto !important;
+}
+.hpb-parts-smt-hl-03,
+.hpb-parts-smt-hl-04,
+.hpb-parts-smt-hl-05 {
+	background-color: #fff !important;
+}
+
+.hpb-parts-smt-hl-06,
+.hpb-parts-smt-hl-07 {
+	background-color: #5296f3 !important;
+	background-image: none !important;
+	color: #fff !important;
+}
+
+.hpb-parts-smt-hl-05 {
+	border-radius: 5px !important;
+}
+.hpb-parts-smt-hl-06 {
+	border-radius: 0px !important;
+}
+
+.hpb-parts-smt-hl-bg-style {
+	border-color: #2077ee !important;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 1em;
+	font-weight: normal;
+	padding: 6px 4px !important;
+	font-size: 12px !important;
+	text-shadow: none !important;
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+	width: auto !important;
+}
+
+/* 文書枠　5種類
+================================================== */
+
+.hpb-parts-smt-cbox-style {
+	border-color: #2077ee;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #fff;
+	margin-bottom: 1em;
+}
+
+/* リスト枠　4種類（2×2種類　見出しアリ・ナシ）
+================================================== */
+
+.hpb-parts-smt-sbox-style {
+	border-color: #1663cb;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 1em;
+	background-color: #fff;
+}
+.hpb-parts-smt-sbox-style ul {
+	border-color: #1663cb;
+	padding: 0 !important;
+	margin: 0 !important;
+	list-style: none;
+}
+.hpb-parts-smt-sbox-style li {
+	border-color: #1663cb;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.hpb-parts-smt-sbox-style h3 {
+	border-color: #1663cb !important;
+	border-radius: 0px !important;
+	margin: 0 !important;
+	font-weight: normal;
+	background-color: #5296f3 !important;
+	background-image: none !important;
+	padding: 6px 4px !important;
+	font-size: 12px !important;
+	color: #fff;
+	width: auto !important;
+}
+
+.hpb-parts-smt-sbox-02 h3 {
+	border-left: none !important;
+	border-right: none !important;
+}
+.hpb-parts-smt-sbox-02 li:last-child 
+{
+    padding: 6px 12px 6px 15px;
+}
+
+/* トップページニュース */
+.hpb-layoutset-02 #hpb-main #toppage-news .hpb-parts-smt-sbox-style ul {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.hpb-layoutset-02 #hpb-main #toppage-news .hpb-parts-smt-sbox-style li
+{
+	padding-left: 15px;
+	margin: 0;
+}
+
+/* プライバシーポリシー */
+.hpb-layoutset-02 #hpb-main #privacy .hpb-parts-smt-sbox-style ul {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.hpb-layoutset-02 #hpb-main #privacy .hpb-parts-smt-sbox-style li
+{
+	background-image: none;
+	padding-left: 15px;
+	margin: 0;
+}
+
+/* トップページスペシャル */
+.hpb-layoutset-02 #hpb-main #toppage-special .hpb-parts-smt-sbox-style ul {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.hpb-layoutset-02 #hpb-main #toppage-special .hpb-parts-smt-sbox-style li
+{
+	background-image: none;
+	padding-left: 15px;
+	margin: 0;
+}
+/* 商品一覧 */
+.hpb-layoutset-02 #hpb-main #item .hpb-parts-smt-sbox-style ul {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.hpb-layoutset-02 #hpb-main #item .hpb-parts-smt-sbox-style li
+{
+	background-image: none;
+	padding-left: 15px;
+	margin: 0;
+}
+/* リンクリスト　2種類（2×6種類　枠角・枠丸／見出しアリ・ナシ／画像アリ・ナシ）
+================================================== */
+
+.hpb-parts-smt-lbox-style {
+	border-color: #1663cb;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 1em;
+	background-color: #fff;
+}
+
+.hpb-parts-smt-lbox-style .en {
+	display: none;
+}
+
+.hpb-parts-smt-lbox-style a {
+	color: #000;
+}
+
+.hpb-parts-smt-lbox-style ul {
+	border-color: #1663cb;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.hpb-parts-smt-lbox-style li {
+	border-color: #1663cb;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.hpb-parts-smt-span-head {
+	font-size: 100%;
+}
+
+.hpb-parts-smt-lbox-style h3 {
+	border-color: #1663cb !important;
+	border-radius: 0px !important;
+	margin: 0 !important;
+	font-weight: normal;
+	background-color: #5296f3 !important;
+	background-image: none !important;
+	padding: 6px 4px !important;
+	font-size: 12px !important;
+	color: #fff;
+	width: auto !important;
+}
+
+.hpb-parts-smt-lbox-02 h3 {	
+	border-top: none !important;
+}
+
+/* トップページニュース */
+
+
+.hpb-layoutset-02 #hpb-main #toppage-news .hpb-parts-smt-lbox-style ul {
+	padding: 0;
+	margin: 0;
+}
+
+.hpb-layoutset-02 #hpb-main #toppage-news .hpb-parts-smt-lbox-style li
+{
+	padding: 0;
+	margin: 0;
+}
+/* プライバシーポリシー */
+.hpb-layoutset-02 #hpb-main #privacy .hpb-parts-smt-sbox-style ul li{
+	padding-left: 14px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.hpb-layoutset-02 #hpb-main #privacy .hpb-parts-smt-lbox-style ul {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.hpb-layoutset-02 #hpb-main #privacy .hpb-parts-smt-lbox-style li
+{
+	background-image: none;
+	padding: 0;
+}
+/* トップページスペシャル */
+.hpb-layoutset-02 #hpb-main #toppage-special .hpb-parts-smt-lbox-style ul {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.hpb-layoutset-02 #hpb-main #toppage-special .hpb-parts-smt-lbox-style li
+{
+	background-image: none;
+	padding-left: 0;
+}
+
+/* 商品一覧 */
+.hpb-layoutset-02 #hpb-main #item .hpb-parts-smt-lbox-style ul {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.hpb-layoutset-02 #hpb-main #item .hpb-parts-smt-lbox-style li
+{
+	background-image: none;
+	padding-left: 0;
+	margin-bottom: 0;
+}
+
+
+/* リンクボタン　9種類
+================================================== */
+
+.hpb-parts-smt-lbtn-style {
+	margin-bottom: 1em;
+	font-size: 12px;
+	background-color: transparent !important;
+	border: none !important;
+}
+
+.hpb-parts-smt-lbtn-style a {
+	color: #000000;
+	padding: 6px 6px;
+	background-color: #ffed26;
+	box-shadow: 2px 2px 2px #eaeaea;
+	text-shadow: 1px 1px 1px #fff;
+	border-color: #eedc10;
+}
+
+p.hpb-parts-smt-lbtn-style {
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+	padding: 0 !important;
+	background-image: none !important;
+	background-color: #fff !important;
+}
+
+/* リンクカラー　2種類
+================================================== */

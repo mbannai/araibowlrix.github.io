@@ -1,0 +1,138 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.12.0 for Windows">
+<title>お問い合わせ&nbsp;-&nbsp;アライ株式会社</title>
+<link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="container_1Yb_2c_top.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="main_1Yb_2c.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="user7.css" type="text/css" id="hpbuser">
+<script type="text/javascript" src="jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="move-mainnav.js">hpb-move-mainnav-js</script>
+<script type="text/javascript" src="userAgent.js"></script> </head>
+<body id="hpb-template-01-25b-01" class="hpb-layoutset-02 hpb-responsive">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container" style='font-family : "Hiragino Sans", ヒラギノ角ゴシック, "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", Roboto, "Droid Sans", YuGothic,YuGothic medium, 游ゴシック,游ゴシック medium, Meiryo, メイリオ, Verdana, "ＭＳ Ｐゴシック", sans-serif;'>  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>　</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="index.html" style="color : #f17d99;background-image : url(logo_1Yb1111.png);height : 50px;">アライ株式会社</a> </div>
+    <div id="hpb-headerExtra1"></div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title" style="z-index : -4;">
+        <h3><span class="ja"><font color="#4bc8d1" size="+3" style="font-size : 180%;">お問い合わせ</font></span><span class="en"></span></h3>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <!-- contact -->
+        <div id="contact">
+          <form method="POST" action="postmail.cgi" accept-charset="utf-8"><input type="hidden" name="need" value="メッセージ お名前 email"><input type="hidden" name="match" value="email email2">
+          <h3><font color="#323232" size="+1" style="font-size : 117%;"><b>フォーム</b></font></h3>
+          <p><font size="+1" color="#4f4f4f"><b>*は必須項目です。</b></font></p>
+          <table>
+            <tbody>
+              <tr>
+                <th style="color : #ffffff;background-color : gray;font-size : 15px;" width="80">メッセージ*</th>
+                <td width="522"><textarea name="メッセージ" class="l" cols="40" rows="12"></textarea></td>
+              </tr>
+              <tr>
+                <th style="color : #ffffff;background-color : gray;font-size : 15px;" width="80">所属</th>
+                <td width="522"><input type="text" name="所属" class="m"></td>
+              </tr>
+              <tr>
+                <th style="color : #ffffff;background-color : gray;font-size : 15px;" width="80">お名前*</th>
+                <td width="522"><input type="text" name="お名前" class="m"></td>
+              </tr>
+              <tr>
+                <th style="color : #ffffff;background-color : gray;font-size : 15px;" width="80">E-Mail*</th>
+                <td width="522" style="font-size : 15px;"><input type="text" name="email" class="l">
+                  <input type="text" name="email2" class="l"><font color="#4f4f4f"><b>（再度入力）</b> </font></td>
+              </tr>
+              <tr>
+                <th style="color : #ffffff;background-color : gray;font-size : 15px;" width="80">TEL</th>
+                <td width="522"><input type="text" name="TEL" class="l"></td>
+              </tr>
+              <tr>
+                <th style="color : #ffffff;background-color : gray;font-size : 15px;" width="80">FAX</th>
+                <td width="522"><input type="text" name="FAX" class="l"></td>
+              </tr>
+            </tbody>
+          </table>
+          <input type="submit" value="送信する" class="button" style="font-size : 15px;"> 
+          <input type="reset" value="リセット" class="button" style="font-size : 15px;">
+          </form>
+          <hr>
+          <h3><font color="#4bc8d1" size="+1" style="font-size : 150%;">その他のお問い合わせ方法</font></h3>
+          <dl>
+            <dt style="font-size : 15px;">メール
+
+            
+            <dd><b><font color="#4bc8d1"><a href="mailto:info@builder**.jp" style="color : #2b5ba6;font-size : 15px;">info@araiguma.co.jp</a></font>
+            </b><dt style="font-size : 15px;">TEL（レーザ事業）
+            
+            
+            <dd style="font-size : 15px;"><b><font color="#6a6a6a">0242-58-0013（平日 8:30～17:30） 
+            
+            </font></b><dt style="font-size : 15px;">FAX
+            
+            
+            <dd style="font-size : 15px;"><b><font color="#6a6a6a">0242-58-3394 
+          
+          </font></b></dl>
+          <div id="pagetop" style="z-index : -3;"><a href="#hpb-container">このページの先頭へ</a></div>
+        </div>
+        <!-- contact end -->
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav" style="z-index : 1;
+	width : 921px;
+">
+      <h3 class="hpb-c-index">ナビゲーション</h3>
+      <ul>
+        <li id="nav-toppage"><a href="index.html"><font color="#807e7e" ><span class="ja" style="font-size : 14px;"><b>トップページ</b></span></font><span class="en" style="font-size : 12px;">トップページ</span></a> 
+        <li id="nav-service"><a href="survey.html" style="font-size : 14px;"><font color="#807e7e" ><span class="ja"><b>測量</b></span></font><span class="en">測量</span></a> 
+        <li id="nav-service"><a href="bowlrix_top.html" style="font-size : 12px;"><span class="ja"><font color="#807e7e" style="font-size : 14px;" ><b>レーザマーキング</b></font></span><span class="en">レーザマーキング</span></a> 
+        <li id="nav-company"><a href="company.html"><font color="#807e7e" ><span class="ja" style="font-size : 14px;"><b>会社概要</b></span></font><span class="en" style="font-size : 12px;">会社概要</span></a> 
+        <li id="nav-recruit"><a href="recruit.html"><span class="ja"><font color="#807e7e" style="font-size : 14px;" ><b>採用情報</b></font></span><span class="en" style="font-size : 12px;">採用情報</span></a> 
+        <li id="nav-contact"><a href="contact.html" style="font-size : 14px;"><b><font color="#807e7e" ><font ><span class="ja">お問い合わせ</span></font><span class="en" style="font-size : 12px;">い合わせ</span></font></b></a> 
+        <li id="nav-access"><a href="access.html" style="font-size : 14px;"><font color="#807e7e" ><span class="ja"><b>アクセス</b></span></font><font color="#807e7e"><span class="ja"></span><span class="en" style="font-size : 12px;">アクセス</span></font></a> 
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <div id="banner">
+        <ul>
+          <li><a id="banner-access" style="background-image : url(banner_contact.png);height : 200px;"></a><li><a href="survey.html" id="banner-recruit" style="background-image : url(banner_1Yb_02_s11.png);">測量</a> <li><a href="bowlrix_top.html" id="banner-service" style="background-image : url(banner_1Yb_02_b11.png);">レーザーマーキング</a> <li><a href="company.html" id="banner-service" style="background-image : url(banner_1Yb_02_k1.png);">会社概要</a> <li><a href="recruit.html" id="banner-recruit" style="background-image : url(banner_1Yb_02_r1.png);">採用情報</a> <li><a href="contact.html" id="banner-service" style="background-image : url(banner_1Yb_02_c11.png);">お問い合わせ</a> <li><a href="access.html" id="banner-access" style="background-image : url(banner_1Yb_02_a1.png);">アクセス</a> </ul>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain" style="z-index : 3;">
+      <p><font color="#4bc8d1" style="font-size : 12px;">copyright&copy;アライ株式会社&nbsp;&nbsp;all&nbsp;rights&nbsp;reserved.</font></p>
+    </div>
+    <div id="hpb-footerExtra1">
+      <h3 class="hpb-c-index">サブナビゲーション</h3>
+      <ul>
+        <li><a href="privacy.html"><font color="#ffffff" style="font-size : 15px;"><u>プライバシーポリシー</u></font></a> 
+      </ul>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<script type="text/javascript" src="navigation.js">hpb-navigation-js</script> </body>
+</html>
