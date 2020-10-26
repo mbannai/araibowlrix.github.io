@@ -12,18 +12,17 @@
 <link rel="stylesheet" href="container_1Yb_2c_top.css" type="text/css" id="hpbcontainer">
 <link rel="stylesheet" href="main_1Yb_2c.css" type="text/css" id="hpbmain">
 <link rel="stylesheet" href="user7.css" type="text/css" id="hpbuser">
-<script type="text/javascript" src="jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="move-mainnav.js">hpb-move-mainnav-js</script> <script type="text/javascript" src="userAgent.js"></script> </head>
+<script type="text/javascript" src="jquery.min.js"><!-- hpbiptitle jQuery library --></script> <script type="text/javascript" src="move-mainnav.js">hpb-move-mainnav-js</script> </head>
 <body id="hpb-template-01-25b-01" class="hpb-layoutset-02 hpb-responsive">
 <div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
 <!-- container -->
-<div id="hpb-container" style='font-family : "Hiragino Sans", ヒラギノ角ゴシック, "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", Roboto, "Droid Sans", YuGothic,YuGothic medium, 游ゴシック,游ゴシック medium, Meiryo, メイリオ,  "ＭＳ Ｐゴシック",;'>
+<div id="hpb-container">
   <!-- header -->
   <div id="hpb-header">
     <div id="hpb-headerMain">
       <h1>　</h1>
     </div>
     <div id="hpb-headerLogo"><a href="index.html" style="color : #f17d99;background-image : url(logo_1Yb1111.png);height : 50px;">アライ株式会社</a> </div>
-    <div id="hpb-headerExtra1"></div>
   </div>
   <!-- header end --><!-- inner -->
   <div id="hpb-inner">
@@ -31,42 +30,52 @@
     <div id="hpb-wrapper">
       <!-- page title -->
       <div id="hpb-title" style="z-index : 1;">
-        <h3><span class="ja"><font color="#4bc8d1" size="+3" style="font-size : 200%;">採用情報</font></span><span class="en"></span></h3>
+        <h3><span class="ja"><font color="#4bc8d1" size="+2" style="font-size : 150%;">採用情報</font></span><span class="en"></span></h3>
       </div>
       <!-- page title end --><!-- main -->
       <div id="hpb-main">
         <!-- recruit -->
         <div id="recruit">
-          <p class="large"><font size="+1" color="#323232"><b>アライ株式会社では、以下の人材を募集しています。</b><br>
+          <p class="large"><font size="+1">アライ株式会社では、以下の人材を募集しています。<br>
           <br>
           </font></p>
           <dl>
-            <dt><b><font  color="#323232" style="font-size : 130%;">募集職種</font><font  color="#323232"> </font></b><dd style="font-size : 130%;"><b><font color="#6a6a6a">測量エンジニア</font><font  color="#323232" style="font-size : 130%;"> </font></b><dt><b><font  color="#323232" style="font-size : 130%;">雇用形態 
-            </font></b><dd><b><font color="#6a6a6a" style="font-size : 130%;">正社員　※２ヶ月間の試用期間あり</font><font  color="#323232" style="font-size : 130%;"> </font></b><dt><b><font  color="#323232" style="font-size : 130%;">勤務地
+            <dt>募集職種
             
-            </font></b><dd><b><font color="#6a6a6a" style="font-size : 130%;">当社所在地</font><font  color="#323232" style="font-size : 130%;"> </font></b><dt><b><font  color="#323232" style="font-size : 130%;">給与
+            <dd>測量エンジニア 
+            <dt>雇用形態 
+            <dd>正社員　※２ヶ月間の試用期間あり
+            <dt>勤務地
             
-            </font></b><dd style="font-size : 130%;"><b><font color="#6a6a6a">当社規定による</font><font  color="#323232"> </font></b><dt><b><font  color="#323232" style="font-size : 130%;">待遇・福利厚生 
-            </font></b><dd><b><font color="#6a6a6a" style="font-size : 130%;">通勤手当/各種社会保険完備/賞与1~2回/昇給あり</font><font  color="#323232" style="font-size : 130%;"> </font></b><dt><b><font  color="#323232" style="font-size : 130%;">勤務時間
+            <dd>当社所在地
+            <dt>給与
             
-            </font></b><dd style="font-size : 130%;"><b><font color="#6a6a6a">8:30～17:30</font><font  color="#323232"> </font></b><dt><b><font  color="#323232" style="font-size : 130%;">休日休暇
+            <dd>当社規定による <dt>待遇・福利厚生 
+            <dd>通勤手当/各種社会保険完備/賞与1~2回/昇給あり
+            <dt>勤務時間
             
-            </font></b><dd><b><font color="#6a6a6a" style="font-size : 130%;">週休2日制、夏期休暇、年末年始休暇</font><font  color="#323232" style="font-size : 130%;"> </font></b><dt><b><font  color="#323232" style="font-size : 130%;">仕事内容
+            <dd>8:30～17:30 
+            <dt>休日休暇
             
-            </font></b><dd style="font-size : 130%;"><b><font color="#6a6a6a">測量業務/トータルステーション及びGPS機器の操作/測量計算・CADシステムのオペレーション
+            <dd>週休2日制、夏期休暇、年末年始休暇 <dt>仕事内容
             
-            </font></b><dt style="font-size : 130%;"><b><font  color="#323232">求める人材
+            <dd>測量業務/トータルステーション及びGPS機器の操作/測量計算・CADシステムのオペレーション
             
-            </font></b><dd style="font-size : 130%;"><b><font color="#6a6a6a">高卒以上/未経験者OK</font><font  color="#323232"> </font></b><dt><b><font  color="#323232" style="font-size : 130%;">応募方法
+            <dt>求める人材
+            
+            <dd>高卒以上/未経験者OK
+          
+            <dt>応募方法
             
             
-            </font></b><dd><b><font color="#6a6a6a" style="font-size : 130%;">電話またはメールで事前連絡して下さい。</font><font  color="#323232" style="font-size : 130%;"> </font></b><dt><b><font  color="#323232" style="font-size : 130%;">お問い合わせ先 
-            </font></b><dd style="font-size : 130%;"><b><font  color="#323232">　</font><font color="#6a6a6a">アライ株式会社　採用係<br>
-            　〒965-0102<br>
+            <dd>電話またはメールで事前連絡して下さい。
+            <dt>問い合わせ先 
+            <dd>アライ株式会社　採用係<br>
+            〒965-0102<br>
             　 福島県会津若松市真宮新町北2丁目78番地<br>
             　 TEL. 0242-58-3391<br>
             　 FAX. 0242-58-3394<br>
-            　 E-mail.</font><font  color="#323232"> </font><font color="#000000" ><a href="mailto:info@builder**.jp">jobs@araiguma.co.jp</a></font></b><br></dl>
+            　 E-mail. <font color="#000000"><a href="mailto:info@builder**.jp">jobs@araiguma.co.jp</a></font><br></dl>
           <div id="pagetop" style="z-index : 2;"><a href="#hpb-container">このページの先頭へ</a></div>
         </div>
         <!-- recruit end -->
@@ -79,20 +88,33 @@
 ">
       <h3 class="hpb-c-index">ナビゲーション</h3>
       <ul>
-        <li id="nav-toppage"><a href="index.html"><font color="#807e7e" ><span class="ja" style="font-size : 14px;"><b>トップページ</b></span></font><span class="en" style="font-size : 12px;">トップページ</span></a> 
-        <li id="nav-service"><a href="survey.html" style="font-size : 14px;"><font color="#807e7e" ><span class="ja"><b>測量</b></span></font><span class="en">測量</span></a> 
-        <li id="nav-service"><a href="bowlrix_top.html" style="font-size : 12px;"><span class="ja"><font color="#807e7e" style="font-size : 14px;" ><b>レーザマーキング</b></font></span><span class="en">レーザマーキング</span></a> 
-        <li id="nav-company"><a href="company.html"><font color="#807e7e" ><span class="ja" style="font-size : 14px;"><b>会社概要</b></span></font><span class="en" style="font-size : 12px;">会社概要</span></a> 
-        <li id="nav-recruit"><a href="recruit.html"><span class="ja"><font color="#807e7e" style="font-size : 14px;" ><b>採用情報</b></font></span><span class="en" style="font-size : 12px;">採用情報</span></a> 
-        <li id="nav-contact"><a href="contact.html" style="font-size : 14px;"><b><font color="#807e7e" ><font ><span class="ja">お問い合わせ</span></font><span class="en" style="font-size : 12px;">い合わせ</span></font></b></a> 
-        <li id="nav-access"><a href="access.html" style="font-size : 14px;"><font color="#807e7e" ><span class="ja"><b>アクセス</b></span></font><font color="#807e7e"><span class="ja"></span><span class="en" style="font-size : 12px;">アクセス</span></font></a> 
+        <li id="nav-toppage"><a href="index.html"><font color="#ffffff"><span class="ja" style="font-size : 14px;">トップページ</span></font><span class="en" style="font-size : 12px;">トップページ</span></a> 
+        <li id="nav-service"><a href="service.html" style="font-size : 14px;"><font color="#ffffff"><span class="ja">測量</span></font><span class="en">測量</span></a> 
+        <li id="nav-service"><a href="service3.html" style="font-size : 12px;"><span class="ja"><font color="#ffffff" style="font-size : 14px;">レーザマーキング</font></span><span class="en">レーザマーキング</span></a> 
+        <li id="nav-company"><a href="company.html"><font color="#ffffff"><span class="ja" style="font-size : 14px;">会社概要</span></font><span class="en" style="font-size : 12px;">会社概要</span></a> 
+        <li id="nav-recruit"><a href="recruit.html"><span class="ja"><font color="#ffffff" style="font-size : 14px;">採用情報</font></span><span class="en" style="font-size : 12px;">採用情報</span></a> 
+        <li id="nav-contact"><a href="contact.html" style="font-size : 14px;"><font color="#ffffff"><span class="ja">お問い合わせ</span><span class="en" style="font-size : 12px;">お問い合わせ</span></font></a> 
+        <li id="nav-access"><a href="access.html" style="font-size : 14px;"><font color="#ffffff"><span class="ja">アクセス</span><span class="en" style="font-size : 12px;">アクセス</span></font></a> 
       </ul>
     </div>
     <!-- navi end --><!-- aside -->
     <div id="hpb-aside">
+      <h3 class="hpb-c-index">バナースペース</h3>
       <div id="banner">
         <ul>
-          <li><a id="banner-access" style="background-image : url(banner_recru.png);height : 200px;"></a><li><a href="survey.html" id="banner-recruit" style="background-image : url(banner_1Yb_02_s11.png);">測量</a> <li><a href="bowlrix_top.html" id="banner-service" style="background-image : url(banner_1Yb_02_b11.png);">レーザーマーキング</a> <li><a href="company.html" id="banner-service" style="background-image : url(banner_1Yb_02_k1.png);">会社概要</a> <li><a href="recruit.html" id="banner-recruit" style="background-image : url(banner_1Yb_02_r1.png);">採用情報</a> <li><a href="contact.html" id="banner-service" style="background-image : url(banner_1Yb_02_c11.png);">お問い合わせ</a> <li><a href="access.html" id="banner-access" style="background-image : url(banner_1Yb_02_a1.png);">アクセス</a> </ul>
+          <li><a id="banner-recruit" style="background-image : url(banner_1Yb_02_0212111111113111111111111.png);height : 200px;"></a> 
+          
+          <li><a href="service.html" id="banner-recruit" style="background-image : url(banner_1Yb_02_s.png);">測量</a> 
+          
+          <li><a href="service3.html" id="banner-service" style="background-image : url(banner_1Yb_02_b.png);">レーザーマーキング</a> 
+          
+          <li><a href="company.html" id="banner-service" style="background-image : url(banner_1Yb_02_021211111111211111111111.png);">会社概要</a> 
+          
+          <li><a href="contact.html" id="banner-service" style="background-image : url(banner_1Yb_02_02121111111111111211111111111.png);">お問い合わせ</a> 
+          
+          <li><a href="access.html" id="banner-access" style="background-image : url(banner_1Yb_02_021111111111211111111.png);">アクセス</a> 
+        
+        </ul>
       </div>
     </div>
     <!-- aside end -->
@@ -100,12 +122,12 @@
   <!-- inner end --><!-- footer -->
   <div id="hpb-footer">
     <div id="hpb-footerMain" style="z-index : 3;">
-      <p><font color="#4bc8d1"  style="font-size : 12px;">copyright&copy;アライ株式会社&nbsp;&nbsp;all&nbsp;rights&nbsp;reserved.</font></p>
+      <p><font color="#4bc8d1">copyright&copy;アライ株式会社&nbsp;&nbsp;all&nbsp;rights&nbsp;reserved.</font></p>
     </div>
     <div id="hpb-footerExtra1">
       <h3 class="hpb-c-index">サブナビゲーション</h3>
       <ul>
-        <li><a href="privacy.html"><font color="#ffffff"  style="font-size : 15px;"><u>プライバシーポリシー</u></font></a> 
+        <li><a href="privacy.html"><font color="#ffffff">プライバシーポリシー</font></a> 
       </ul>
     </div>
   </div>

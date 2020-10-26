@@ -6,14 +6,14 @@ body{
     padding: 0;
     text-align: center;
     font-size: 75%;
-    font-family : ŸàƒSƒVƒbƒN, ƒƒCƒŠƒI, "‚l‚r ‚oƒSƒVƒbƒN";
-    color : #323232; /* •W€•¶šF */
-    background-color : #f5f5f5;
+    font-family: 'ƒƒCƒŠƒI' ,Meiryo, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3' , 'Hiragino Kaku Gothic Pro' , '‚l‚r ‚oƒSƒVƒbƒN' , 'Osaka' ,sans-serif;
+    color: #323232; /* •W€•¶šF */
+    background-color: #F5F5F5;
     min-width: 900px;
 		background-image : url(mainBg_1Yb.png);
     background-position: top center;
     background-repeat: no-repeat;
-  font-weight : normal;
+  font-weight : bold;
 }
 
 body.hpb-layoutset-02{
@@ -228,7 +228,7 @@ img{
 }
 
 #hpb-nav li{
-    height: 80px;
+    height: 50px;
     overflow: hidden;
 		float:left;
     border-left-width: 1px;
@@ -442,6 +442,7 @@ img{
 		position: relative;
 		top: 0;
 		left: 0;
+		background-image : url(asideBg_1Yb.png);
 		background-position: top left;
 		background-repeat: repeat;
 		margin-top: 0;
