@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Web サイトのルートにある Microsoft 365 のドメイン所有権確認ファイル",
+  "Domain": "araiguma.co.jp",
+  "Id": "4c06a62f-f3a0-460e-a5e1-1a6966c9d5a1"
+}
